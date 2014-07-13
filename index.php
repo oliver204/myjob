@@ -59,7 +59,7 @@
 	</div>	   
 </div>
 
-<div class="col-md-4 col-md-offset-4 z-1 text-center green margin-top-40 border-radius-5 faint-shadow-3">
+<div class="col-md-4 col-md-offset-4 z-1 text-center green margin-top-40 border-radius-2 faint-shadow-3">
 	<h6 class="white-text margin-top-10 margin-bottom-10">Stay Connected</h6>
 </div>
 

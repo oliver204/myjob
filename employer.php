@@ -49,7 +49,7 @@
 			       
 			        <div style="height:200px" class="col-md-6 margin-left-20 offwhite margin-left-20 border-radius-5 faint-shadow border-white">
 				          <div class="col-md-12 text-center margin-top-10 margin-bottom-10 border-bottom-1">
-				         	 <p><span class="fui-list margin-right-20"></span>My Profile</p>
+				         	 <p><span class="fui-list margin-right-20"></span>Company Profile</p>
 				          </div>
 				          <div class="col-md-5 col-md-offset-2">
 						 	 <p class="font-14 margin-bottom-10"><a href="#"><span class="fui-check margin-right-20"></span>Employee Matches</a></p>
