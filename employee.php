@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>My Job</title>
+<title>OurJobb</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Loading Bootstrap -->
@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">MyJob</a>
+          <a class="navbar-brand" href="index.php">OurJobb</a>
         </div>
       </div>
     </div>

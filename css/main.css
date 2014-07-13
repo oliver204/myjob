@@ -442,6 +442,10 @@
 	border-left: 1px solid #dfdede;
 }
 
+.border-1 {
+	border: 1px solid #cbcbcb;
+}
+
 
 /*--font--*/
 
@@ -667,6 +671,14 @@
 	color: white;
 }
 
+.d-blue {
+	background-color: #34495e;
+}
+
+.d-blue-text {
+	color: #34495e;
+}
+
 .d-blue-hover:hover {
 	color: #34495e;
 }
@@ -674,6 +686,12 @@
 .offwhite{
 	background-color: #fafbfb;
 }
+
+.silver {
+	background-color: #bdc3c7;
+}
+
+
 .silver-hover:hover {
 	background-color: #bdc3c7;
 }
@@ -711,6 +729,11 @@
 
 a:hover {
 	color: #2ecc71!important;
+}
+
+.z-1 {
+	position:absolute;
+	z-index:1;
 }
 
 /*--------------------------------------------------------*/

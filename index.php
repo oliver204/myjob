@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>My Job</title>
+<title>OurJobb</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Loading Bootstrap -->
@@ -21,6 +21,7 @@
 </head>
 
 <body> <!---------------KEEEEEEPP THIS NAV HERE -------NO MARGIN BOTTOM------>
+<!--
    <div class="navbar navbar-inverse no-radius margin-bottom-none" role="navigation">
       <div class="min-width-760 container">
         <div class="navbar-header">
@@ -30,43 +31,56 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">MyJob</a>
+          <a class="navbar-brand" href="index.php">OurJobb</a>
         </div>
       </div>
     </div>
+-->
     
 <div class="MainCon">    
 <div class="blue50">
 	<div class="container-fluid">
-		<div class="col-md-12 text-center white-text">
+		<div class="col-md-12 text-center white-text margin-top-120">
 			<h2>THE EMPLOYER</h2>
-			<p>Find yourself an Employee</p>
+			<p class="margin-bottom-none">Find yourself an Employee</p>
+			<p class="font-15 margin-none">Get to the dashboard</p>
 		</div>
 		<div class="col-md-6 col-md-offset-3 margin-top-20">
 			<div class="form-group">
-           		 <input type="text" value="" placeholder="Username" class="form-control input-hg">
+           		 <input type="text" value="" placeholder="Username" class="form-control input-hg border-none faint-shadow">
 			</div>
 			<div class="form-group">
-           		 <input type="password" value="" placeholder="Password" class="form-control input-hg">
+           		 <input type="password" value="" placeholder="Password" class="form-control input-hg border-none faint-shadow">
 			</div>
-				<a href="#fakelink" class="btn btn-lg btn-block btn-success">Sign In</a>		
+				<a href="#fakelink" class="btn btn-lg btn-block btn-success">Sign In</a>	
+				<p class=" white-text margin-top-20 margin-bottom-none">Havent made an account yet?</p>
+				<a class=" d-blue-text margin-none" href="#fakelink">Register Here</a>						
 		</div>
 	</div>	   
 </div>
+
+<div class="col-md-4 col-md-offset-4 z-1 text-center green margin-top-40 border-radius-5 faint-shadow-3">
+	<h6 class="white-text margin-top-10 margin-bottom-10">Stay Connected</h6>
+</div>
+
 <div class="offwhite50">
 	<div class="container-fluid">
-		<div class="col-md-12 text-center">
+		<div class="col-md-12 text-center margin-top-120">
 			<h2 class="blue-text">THE EMPLOYEE</h2>
-			<p>Find yourself an Employer</p>
+			<p class="margin-bottom-none">Find yourself an Employer</p>
+			<p class="font-15 margin-none">Get to the dashboard</p>
 		</div>
 		<div class="col-md-6 col-md-offset-3 margin-top-20">
 			<div class="form-group">
-           	 <input type="text" value="" placeholder="Username" class="form-control input-hg">
+           	 <input type="text" value="" placeholder="Username" class="form-control input-hg border-none faint-shadow">
 			</div>
 			<div class="form-group">
-           	 <input type="password" value="" placeholder="Password" class="form-control input-hg">
+           	 <input type="password" value="" placeholder="Password" class="form-control input-hg border-none faint-shadow">
 			</div>	
-				<a href="#fakelink" class="btn btn-lg btn-block btn-success">Sign In</a>		
+				<a href="#fakelink" class="btn btn-lg btn-block btn-success">Sign In</a>
+				
+				<p class="margin-top-20 margin-bottom-none">Havent made an account yet?</p>
+				<a class="margin-none" href="#fakelink">Register Here</a>		
 		</div>		
 	</div>	   
 </div>
