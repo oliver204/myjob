@@ -657,6 +657,11 @@
 .blue {
 	background-color: #3498db;
 }
+
+.blue-text {
+	color:#3498db;
+}
+
 .blue-hover:hover {
 	background-color: #3498db;
 	color: white;
@@ -676,6 +681,7 @@
 .white {
 	background-color: white;
 }
+
 .white-text{
 	color: white;
 }
@@ -718,6 +724,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	background-color: #3498db;
+	height: 100%;
 }
 
 .mainContainer {
@@ -730,7 +737,30 @@ html, body {
 /*--------------------------------------------------------*/
 /*--------------------------------------------------------*/
 
+/*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
+/*-----------------INDEX PAGE---------------------------*/
+/*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
+.MainCon {
+	width: 100%;
+	height: 100%;
+}
 
 
+.offwhite50 {
+	width: 50%;
+	height: 100%;
+	background-color: #fafbfb!important;
+	float:right;
+}
+
+.blue50 {
+	width: 50%;
+	height: 100%;
+	background-color: #3498db!important;
+	float:right;
+}
 
 

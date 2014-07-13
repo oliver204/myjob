@@ -11,7 +11,7 @@
 <!-- Loading Flat UI -->
 <link href="css/flat-ui.css" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
-<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="shortcut icon" href="images/profile_icon.png">
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
 <!--[if lt IE 9]>
