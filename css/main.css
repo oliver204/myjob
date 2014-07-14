@@ -775,7 +775,8 @@ html, body {
 .offwhite50 {
 	width: 50%;
 	height: 100%;
-	background-color: #fafbfb!important;
+	background-color: #34495e!important;
+	color: white;
 	float:right;
 }
 

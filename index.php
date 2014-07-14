@@ -47,10 +47,10 @@
 		</div>
 		<div class="col-md-6 col-md-offset-3 margin-top-20">
 			<div class="form-group">
-           		 <input type="text" value="" placeholder="Username" class="form-control input-hg border-none faint-shadow">
+           		 <input type="text" value="" placeholder="Username" class="form-control input-hg border-none border-radius-2 faint-shadow">
 			</div>
 			<div class="form-group">
-           		 <input type="password" value="" placeholder="Password" class="form-control input-hg border-none faint-shadow">
+           		 <input type="password" value="" placeholder="Password" class="form-control input-hg border-none border-radius-2 faint-shadow">
 			</div>
 				<a href="#fakelink" class="btn btn-lg btn-block btn-success">Sign In</a>	
 				<p class=" white-text margin-top-20 margin-bottom-none">Havent made an account yet?</p>
@@ -59,23 +59,19 @@
 	</div>	   
 </div>
 
-<div class="col-md-4 col-md-offset-4 z-1 text-center green margin-top-40 border-radius-2 faint-shadow-3">
-	<h6 class="white-text margin-top-10 margin-bottom-10">Stay Connected</h6>
-</div>
-
 <div class="offwhite50">
 	<div class="container-fluid">
 		<div class="col-md-12 text-center margin-top-120">
-			<h2 class="blue-text">THE EMPLOYEE</h2>
+			<h2 class="white-text">THE EMPLOYEE</h2>
 			<p class="margin-bottom-none">Find yourself an Employer</p>
 			<p class="font-15 margin-none">Get to the dashboard</p>
 		</div>
 		<div class="col-md-6 col-md-offset-3 margin-top-20">
 			<div class="form-group">
-           	 <input type="text" value="" placeholder="Username" class="form-control input-hg border-none faint-shadow">
+           	 <input type="text" value="" placeholder="Username" class="form-control input-hg border-none border-radius-2 faint-shadow">
 			</div>
 			<div class="form-group">
-           	 <input type="password" value="" placeholder="Password" class="form-control input-hg border-none faint-shadow">
+           	 <input type="password" value="" placeholder="Password" class="form-control input-hg border-none border-radius-2 faint-shadow">
 			</div>	
 				<a href="#fakelink" class="btn btn-lg btn-block btn-success">Sign In</a>
 				
